@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: 'Barlow Semi Condensed', 'Arial Narrow', Calibri, sans-serif;
-    background: url("../img/andromeda.jpg") #d7bbe2 no-repeat;
+    background: url("../img/andromeda.jpg") no-repeat;
     background-size:cover;
     text-align:center;
     padding: 36px;
@@ -18,7 +18,7 @@ body {
     text-align: left;
     color: white;
     margin: auto;
-    border-radius: 50px;
+    
 }
 
 /* Image */
@@ -41,6 +41,7 @@ body {
     box-sizing:border-box;
     text-align: center;
     background: rgba(0,0,0,0.5);
+    border-radius: 50px;
     
 }
 
